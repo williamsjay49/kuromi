@@ -52,7 +52,9 @@
     width: 80px; /* Set the width of the container */
     height: 80px; /* Set the height of the container */
   }
-
+  img {
+    border: 2px solid var(--green);
+  }
   .svg_container svg {
     width: 100%; /* Make the SVG fill its container */
     height: 100%; /* Make the SVG fill its container */
